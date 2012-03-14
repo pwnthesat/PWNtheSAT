@@ -1,5 +1,5 @@
-This code is intended to search certain sections of HTML for words found in a
-Google Docs Spreadsheet, and replaces those strings with links to the 
-definitions of those words. It's set up to work on blog.pwnthesat.com, 
+This code is intended to search certain sections of HTML for words found 
+in a Google Docs Spreadsheet, and replaces those strings with links to 
+the definitions of those words. It's set up to work on blog.pwnthesat.com, 
 but it's currently disabled because it doesn't play nicely with DISQUS, 
 AddThis, Facebook, etc. Mostly because I have no idea what I'm doing.
