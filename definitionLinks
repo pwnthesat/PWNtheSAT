@@ -126,7 +126,7 @@ GoogleSpreadsheet.callbackCells = function(data) {
 GoogleSpreadsheet.callbackList = (data) ->*/
 
 //This script finds vocab words listed in a Google Spreadsheet and
-//replaces them with links to those words in Google's dictionary.
+//replaces them with links to those words in the Wordnik dictionary.
 //I borrowed very heavily from the following sites to piece it together:
 //http://www.randomsnippets.com/2008/03/07/how-to-find-and-replace-text-dynamically-via-javascript/
 //http://mikeymckay.github.com/google-spreadsheet-javascript/sample.html
