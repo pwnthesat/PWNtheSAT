@@ -1,0 +1,3 @@
+This code searches certain sections of HTML for words found in a Google Docs Spreadsheet, and replaces those strings with links to the definitions of those words. 
+
+It's a work in progress.
